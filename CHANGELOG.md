@@ -1,3 +1,6 @@
+###0.6.0 / 2021-06-08
+* ported to .Net Standard 2.0 (only Metrics project)
+
 ###0.5.5 / 2018-02-19
 * added the option to trace initalization of HttpEndpoint
 * owin adapter: middleware that allows tracking of status codes returned from app

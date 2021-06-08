@@ -1,4 +1,10 @@
-#Metrics.NET
+# Metrics.NET
+
+Forked from https://github.com/Recognos/Metrics.NET as v0.5.5.
+
+Ported the Metrics project to .Net Standard 2.0.
+
+## Original Readme
 
 |Branch|Appveyor|Travis|
 |------|:--------:|:------:|
