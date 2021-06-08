@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <Description>Metrics monitoring and reporting library</Description>
-    <Product>Metrics.NETStandard</Product>
+    <Product>Metrics.NET</Product>
     <PackageId>Metrics.NET</PackageId>
     <Company>System C Ltd</Company>
     <Authors>System C Ltd</Authors>
